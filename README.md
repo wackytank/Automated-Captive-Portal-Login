@@ -2,7 +2,7 @@
 A small python script to automatically login to the Captive Portal of BIET Jhansi's Intranet.
 ## Pre-Requisites:
 Selenium library for Python (install using $ pip install selenium)
-chromedriver for Google Chrome added to the path.([Download Link!]("https://chromedriver.storage.googleapis.com/index.html?path=2.33/">Download Link!</a>))
+chromedriver for Google Chrome added to the path.([Download Link!]("https://chromedriver.storage.googleapis.com/index.html?path=2.33/"))
 ## Usage:
 ```
 $ git clone https://github.com/wackytank/Automated-Captive-Portal-Login
