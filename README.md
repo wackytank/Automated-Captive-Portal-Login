@@ -9,7 +9,7 @@ $ git clone https://github.com/wackytank/Automated-Captive-Portal-Login
 $ cd Automated-Captive-Portal-Login/
 ```
 
-Replace "trump" with your username and password. 
+Replace "trump_user" and "trump_pw" with your username and password. 
 Save and Exit.
 
 Replace /path/to/login.py with the path to login.py in your PC. Save and exit.
