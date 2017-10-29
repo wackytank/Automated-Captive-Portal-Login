@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from selenium import  webdriver
 
 driver = webdriver.Chrome('/home/django/Desktop/chromedriver')
