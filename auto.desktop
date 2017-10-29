@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Name=Auto_login
+Exec= python3 /home/django/PycharmProjects/login_automation/login.py
+Comment=Automatic Captive Portal login
+Icon=home/django/PycharmProjects/login_automation/icon.png
+Name[en]=Auto_login
